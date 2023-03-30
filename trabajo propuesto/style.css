@@ -1,0 +1,52 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body{
+	background: #0f101a;
+}
+
+h1{
+	margin-left: 35%;
+	font-size: 50px;
+	font-family: 'Hack Nerd Font';
+	color: azure;
+}
+
+hr{
+	margin-top: 30px;
+}
+
+article #info{
+	margin-left: 350px;
+	margin-top: 40px;
+	font-size: 18px;
+	position: relative;
+	color: #ffff;
+	font-family: 'Arial';
+}
+
+article #images{
+	position: absolute;
+	margin-left: 20px;
+	margin-top:50px;
+}
+
+#line{
+	margin-top: 30px;
+}
+
+li{
+	color: white;
+
+}
+img{	
+	border: 6px solid #6C6D6E;
+	border-radius: 30px;
+	border-left: 10px;
+	border-top: 100px;
+	display: inline;
+	
+}
