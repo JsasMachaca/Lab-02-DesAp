@@ -1,5 +1,6 @@
 # Laboratorio N° 2 desarrollo de aplicaciones en internet
 
+Descargar 
 ```git
 git clone https://github.com/jsasmachaca/Lab-02-DesAp.git && cd Lab-02-DesAp/ && ls
 ```
